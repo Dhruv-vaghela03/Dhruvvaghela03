@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm a passionate **BCA student at Manipal University** from Gujarat, India. I love building web applications, solving problems with clean code, and learning new technologies every day.
+Hi! I'm a passionate **BCA student at Manipal University** from gujarat, India. I love building web applications, solving problems with clean code, and learning new technologies every day.
 
 - 💻 **Skills:** Python, Java, C++, JavaScript, SQL, HTML/CSS
 - 📚 **Currently Learning:** Data Structures, Web Development, System Design
@@ -30,7 +30,7 @@ Hi! I'm a passionate **BCA student at Manipal University** from Gujarat, India. 
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruvvaghela03&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-vaghela03&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvvaghela03&layout=compact&theme=radical&hide_border=true)
 
