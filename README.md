@@ -47,3 +47,13 @@ Hi! I'm a passionate **BCA student at Manipal University** from gujarat, India. 
   <p>⭐ If you like my work, please give a star!</p>
   <p>Made with ❤️ by Dhruv Vaghela</p>
 </div>
+
+## 🧩 Projects
+
+### Todo App (HTML, CSS, JS)
+
+- 🧾 Simple todo list web app.
+- ✨ Features: Add, mark as done, delete tasks.
+- 🔗 Live Demo: https://dhruv-vaghela03.github.io/todo-app/
+- 💻 Code: https://github.com/Dhruv-vaghela03/todo-app
+
