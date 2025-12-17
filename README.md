@@ -31,7 +31,8 @@ Hi! I'm a passionate **BCA student at Manipal University** from gujarat, India. 
 ## 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-vaghela03&show_icons=true&theme=radical&hide_border=true)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]([)(https://www.fiverr.com/dhruvvaghela195/buying?source=avatar_menu_profile)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]([)[
+](https://www.fiverr.com/pe/XL931N2)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvvaghela03&layout=compact&theme=radical&hide_border=true)
 
 ---
