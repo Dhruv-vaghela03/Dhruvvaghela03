@@ -57,3 +57,9 @@ Hi! I'm a passionate **BCA student at Manipal University** from gujarat, India. 
 - 🔗 Live Demo: https://dhruv-vaghela03.github.io/todo-app/
 - 💻 Code: https://github.com/Dhruv-vaghela03/todo-app
 
+### 🎮 Pixel Runner - 2D Platformer
+
+A modern 2D runner game built with HTML5 Canvas, particles and basic game physics.
+
+- Live Demo: https://dhruv-vaghela03.github.io/pixel-runner-game/
+- Source Code: https://github.com/Dhruv-vaghela03/pixel-runner-game
